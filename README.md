@@ -1,3 +1,5 @@
+![Project IMG](WaffleGame.png)
+
 # WaffleGame Java Project
 
 **This Project was made in collaboration with:**<br>
