@@ -1,6 +1,6 @@
-![Project IMG](WaffleGame.png)
-
 # WaffleGame Java Project
+
+![Project IMG](WaffleGame.png)
 
 **This Project was made in collaboration with:**<br>
 Pedro Silva<br>
